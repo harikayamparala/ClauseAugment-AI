@@ -1,0 +1,51 @@
+clause_id,clause_text,category,augmented_clause,source
+1,"Each party agrees to keep confidential all information disclosed by the other party and shall not disclose such information to any third party without prior written consent.",Confidentiality,,original
+2,"The receiving party shall maintain the confidentiality of all proprietary information and shall use such information solely for the purposes outlined in this Agreement.",Confidentiality,,original
+3,"All confidential information shared under this agreement shall be protected using reasonable security measures and shall not be used for any competitive purpose.",Confidentiality,,original
+4,"Both parties acknowledge that any breach of confidentiality obligations may cause irreparable harm, entitling the disclosing party to seek equitable relief.",Confidentiality,,original
+5,"The confidentiality obligations set forth herein shall survive the termination of this Agreement for a period of five (5) years.",Confidentiality,,original
+6,"Either party may terminate this Agreement by providing thirty (30) days written notice to the other party.",Termination,,original
+7,"This Agreement shall terminate immediately upon written notice if the other party commits a material breach and fails to cure such breach within fifteen (15) days of notice.",Termination,,original
+8,"Upon termination of this Agreement, all rights and licenses granted hereunder shall cease, and each party shall return or destroy all confidential materials.",Termination,,original
+9,"The Company reserves the right to terminate this Agreement for convenience upon sixty (60) days prior written notice without liability to the other party.",Termination,,original
+10,"Termination of this Agreement shall not affect any rights or obligations that have accrued prior to the effective date of termination.",Termination,,original
+11,"Each party shall indemnify, defend, and hold harmless the other party from any claims, damages, or liabilities arising out of its breach of this Agreement.",Indemnification,,original
+12,"The Service Provider agrees to indemnify the Client against all third-party claims arising from the Service Provider's negligence or willful misconduct.",Indemnification,,original
+13,"Indemnification obligations shall include reasonable attorney's fees and court costs incurred in connection with any covered claim.",Indemnification,,original
+14,"The indemnified party shall promptly notify the indemnifying party of any claim for which indemnification is sought and shall cooperate fully in its defense.",Indemnification,,original
+15,"Neither party's indemnification obligations shall apply to claims arising from the other party's gross negligence or intentional wrongdoing.",Indemnification,,original
+16,"Payment of all invoices shall be due within thirty (30) days of the invoice date unless otherwise agreed in writing by the parties.",Payment Terms,,original
+17,"All amounts payable under this Agreement shall be in United States Dollars and shall be subject to applicable taxes.",Payment Terms,,original
+18,"Late payments shall accrue interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by law, whichever is lower.",Payment Terms,,original
+19,"The Client shall reimburse the Service Provider for all pre-approved expenses incurred in connection with the services rendered under this Agreement.",Payment Terms,,original
+20,"In the event of a payment dispute, the undisputed portion of any invoice shall remain due and payable on the original due date.",Payment Terms,,original
+21,"In no event shall either party be liable for any indirect, incidental, special, or consequential damages arising out of or related to this Agreement.",Liability,,original
+22,"The total liability of either party under this Agreement shall not exceed the total fees paid in the twelve (12) months preceding the event giving rise to the claim.",Liability,,original
+23,"Each party's liability for direct damages shall be limited to the amount paid or payable under this Agreement in the three (3) months prior to the claim.",Liability,,original
+24,"Neither party shall be liable for any loss of profits, loss of data, or business interruption arising from the performance or non-performance of this Agreement.",Liability,,original
+25,"The limitations of liability set forth in this Agreement shall apply regardless of the form of action, whether in contract, tort, or otherwise.",Liability,,original
+26,"All intellectual property rights in the work product created by the Service Provider under this Agreement shall vest exclusively in the Client upon full payment.",Intellectual Property,,original
+27,"Each party retains ownership of its pre-existing intellectual property and grants the other party a limited license to use such IP solely for the purposes of this Agreement.",Intellectual Property,,original
+28,"The Service Provider hereby assigns to the Client all right, title, and interest in any inventions, discoveries, or works created in the performance of the services.",Intellectual Property,,original
+29,"Nothing in this Agreement shall be construed as granting any rights to use the other party's trademarks, service marks, or trade names without prior written consent.",Intellectual Property,,original
+30,"Any improvements or modifications to the Client's intellectual property made by the Service Provider shall be owned exclusively by the Client.",Intellectual Property,,original
+31,"This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of law provisions.",Governing Law,,original
+32,"Any disputes arising under this Agreement shall be subject to the exclusive jurisdiction of the federal and state courts located in New York, New York.",Governing Law,,original
+33,"The parties agree that any controversy or claim arising out of this Agreement shall be settled by binding arbitration in accordance with the AAA Commercial Arbitration Rules.",Governing Law,,original
+34,"This Agreement shall be interpreted and enforced in accordance with the laws of England and Wales, and the parties submit to the exclusive jurisdiction of the English courts.",Governing Law,,original
+35,"In the event of any conflict between the governing law provisions and local mandatory law, the local mandatory law shall prevail to the extent required by law.",Governing Law,,original
+36,"The parties shall comply with all applicable data protection laws, including the General Data Protection Regulation (GDPR) and any national implementing legislation.",Data Protection,,original
+37,"Personal data processed under this Agreement shall be used only for the purposes specified herein and shall not be sold or disclosed to unauthorized third parties.",Data Protection,,original
+38,"The data processor shall implement appropriate technical and organizational measures to ensure the security of personal data against unauthorized access or disclosure.",Data Protection,,original
+39,"In the event of a data breach, the responsible party shall notify the affected party within seventy-two (72) hours of becoming aware of the breach.",Data Protection,,original
+40,"Upon termination of the data processing activities, all personal data shall be securely deleted or returned to the data controller, as instructed in writing.",Data Protection,,original
+41,"The receiving party shall limit disclosure of confidential information to its employees and agents who have a need to know for the purposes of this Agreement.",Confidentiality,,original
+42,"Any breach of this Agreement by either party shall entitle the non-breaching party to terminate this Agreement with immediate effect upon written notice.",Termination,,original
+43,"The Service Provider shall indemnify the Client for any losses arising from the Service Provider's failure to comply with applicable laws and regulations.",Indemnification,,original
+44,"All fees and charges under this Agreement are exclusive of applicable value-added tax, which shall be added at the prevailing rate.",Payment Terms,,original
+45,"Nothing in this Agreement shall exclude or limit either party's liability for death or personal injury caused by that party's negligence.",Liability,,original
+46,"The Client shall own all moral rights in any works created by the Service Provider, to the extent permitted under applicable law.",Intellectual Property,,original
+47,"The parties agree to attempt to resolve any dispute amicably through good-faith negotiations before resorting to arbitration or litigation.",Governing Law,,original
+48,"Each party shall appoint a data protection officer where required by applicable law and shall cooperate with supervisory authorities as necessary.",Data Protection,,original
+49,"The obligations of confidentiality shall not apply to information that is independently developed by the receiving party without use of the disclosing party's information.",Confidentiality,,original
+50,"The Service Provider shall maintain adequate insurance coverage, including professional indemnity insurance, throughout the term of this Agreement.",Indemnification,,original
